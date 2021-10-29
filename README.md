@@ -4,7 +4,7 @@
 
 **socials:** <br>
 <a href="https://discords.com/bio/p/aydynx">
-<img alt="aydyn#0001" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+<img alt="aydyn#0001" width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" fill=FFFF/></a>
 <p>hi im aydyn, im a 16 y/o full stack dev<br>
 im most comfortable with nodejs, but suck at web design</p>
 
