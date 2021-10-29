@@ -4,12 +4,12 @@
 
 **socials:** <br>
 <a href="https://discords.com/bio/p/aydynx">
-<img align="left" alt="aydyn#0001" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-<br>
-hi im aydyn, im a 16 y/o full stack dev
-<br>
-im most comfortable with nodejs, and suck at design
-- for any help with my repos, or really anything, dm me on [discord](https://discords.com/bio/p/aydynx)
+<img alt="aydyn#0001" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+<p>hi im aydyn, im a 16 y/o full stack dev<br>
+im most comfortable with nodejs, but suck at web design</p>
+
+- for any help with my repos, or really anything, dm me
+- online 24/7 basically
 - open to freelance! 
 
 **languages/programs:**
