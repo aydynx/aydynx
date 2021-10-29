@@ -1,11 +1,11 @@
-## hi :3
+### hi :3
 
 ![](https://komarev.com/ghpvc/?username=aydynx&color=ff69b4)
 
+**socials:** <br>
 <a href="https://discords.com/bio/p/aydynx">
 <img align="left" alt="aydyn#0001" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 <br>
-
 - dm me on [discord](https://discords.com/bio/p/aydyn) for any help with any of my repos
 - open to freelance, just make it reasonable
 
