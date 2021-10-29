@@ -1,6 +1,6 @@
 ### hi :3
 
-![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/aydynx/8f5d2052db492a1f0e7a3162771132ab/raw/7522614dd48774569f6bba5a8e3dfd700995e0c6/status.json)
+![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/aydynx/8f5d2052db492a1f0e7a3162771132ab/raw/5f283477fa60ffbaf893f5e0a80e81d39732c7cb/status.json)
 <br>
 ![](https://komarev.com/ghpvc/?username=aydynx&color=ff69b4)
 
