@@ -2,7 +2,7 @@
 
 ![](https://status.aydyn.workers.dev/shield/712799889544970310)
 <br>
-![](https://komarev.com/ghpvc/?username=aydynx&color=ff69b4)
+![](https://count.aydyn.workers.dev/shield)
 
 hi im aydyn, im a 16 y/o full stack dev<br>
 im most comfortable with nodejs, but suck at web design
