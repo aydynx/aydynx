@@ -7,11 +7,11 @@
 hi im aydyn, im a 16 y/o full stack dev<br>
 im most comfortable with nodejs, but suck at web design
 
-- for any help with my repos, or really anything, msg me on [discord](https://discords.com/bio/p/aydynx)
+- for any help with my repos, or really anything, msg me on [discord](https://discord.com/users/712799889544970310)
 - online 24/7 basically
 - open to freelance!
 
-**languages/programs:**
+**stack:**
 <br>
 ![nodejs](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
