@@ -4,7 +4,7 @@
 <br>
 ![](https://count.aydyn.workers.dev/shield)
 
-hi im aydyn, im a 16 y/o full stack dev<br>
+hi im aydyn, ik js ig<br>
 im most comfortable with nodejs, but suck at most anything else<br>
 currently learning c++
 
