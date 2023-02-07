@@ -11,7 +11,7 @@ for more about me, you can visit [my site](https://aydyn.sh)!
 - im basially always online, so feel free to contact me at any time
 - ill always be open to freelance work or any other oppurtunities/requests
 
-### stack
+### my stack
 ![rust](https://img.shields.io/badge/Rust-f74c00?logo=rust&logoColor=000000)
 ![typescript](https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=ffffff)
 ![go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=ffffff)
