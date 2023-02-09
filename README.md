@@ -7,7 +7,7 @@
 im pretty familiar with rust, javascript, and go, to name a few<br>
 for more about me, you can visit [my site](https://aydyn.sh)!
 
-- for any help with (or outside of) my repos, message me on [discord] or [telegram](https://aydynx.t.me)
+- for any help with (or outside of) my repos, you can message me at [aydyn#0001][discord] on discord, or [@aydynx](https://aydynx.t.me) on telegram
 - im basially always online, so feel free to contact me at any time
 - ill always be open to freelance work or any other oppurtunities/requests
 
